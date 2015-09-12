@@ -1,2 +1,2 @@
 # hackerrank
-Here I'll post my hackerrank soltuions
+Here I'll post my Hackerrank soltuions
