@@ -1,3 +1,4 @@
+//Sherlock and MiniMax hackerrank solution
 #include <cmath>
 #include <cstdio>
 #include <vector>
