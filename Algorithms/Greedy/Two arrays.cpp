@@ -1,3 +1,4 @@
+//Two arrays hackerrank solution
 #include <cmath>
 #include <cstdio>
 #include <vector>
