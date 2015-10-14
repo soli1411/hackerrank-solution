@@ -1,4 +1,4 @@
-//Rectangle Area.cpp
+//Rectangle Area hackerrank solution
 class Rectangle{
     public:
        int width;
