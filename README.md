@@ -1,2 +1,2 @@
 # Hackerrank solutions
-Here I'll post my Hackerrank soltuions
+Here I'll post my Hackerrank solutions.
